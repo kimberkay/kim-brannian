@@ -30,3 +30,6 @@ body {
   margin:5%;
   padding:5%;
 }
+.tagline {
+  font-style: italic;
+}
