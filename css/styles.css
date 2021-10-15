@@ -12,5 +12,21 @@ body {
   width:29%;
   margin:1%;
   padding:1%;
-  height:400px;
+  height:300px;
+}
+.block2 h3{
+  text-align: left;
+}
+.block2 {
+  float:left;
+  width:30%;
+  margin:5%;
+  padding:5%;
+  height:35px;
+}
+.block3 {
+  float:left;
+  width:85%;
+  margin:5%;
+  padding:5%;
 }
