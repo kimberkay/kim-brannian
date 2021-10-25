@@ -11,7 +11,7 @@
 
 ## Description
 
-_This website allows users to view Kim Brannian's github portfolio and contact information._
+_This website allows users to view Kim Brannian's github portfolio and contact information. Got to https://kimberkay.github.io/kim-brannian/ to view it.
 
 ## Setup/Installation Requirements
 
